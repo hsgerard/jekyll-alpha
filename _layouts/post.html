@@ -9,6 +9,7 @@ layout: default
   <header>
     <h1>{{ page.title | escape }}</h1>
     <div>{{ page.date | date: "%B %-d, %Y" }}</div>
+    <time datetime="{{ page.date | date: '%-d %B, %Y. It was a %A.' }}">{{ page.date | date_to_string }}</time>
   </header>
   <div>
     {{ content }}

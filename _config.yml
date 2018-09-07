@@ -6,27 +6,25 @@
 
 # Title for your site
 # Default title that should be used if a page's title isn't defined
-title: Your awesome title
+title: H S Gerard
 
 # Site name
-name: Site name
+name: hsgerard
 
 # Your email address
-email: bruce@wayneenterprises.com
+email: h@hsgerard.com
 
 # Description of your site. It's used for Google search results as well as your
 # site's feed.xml site description. You can see it being referenced in
 # _includes/head.html
 description: > # this means to ignore newlines until "baseurl:"
-  "He's the hero Gotham deserves, but not the one it needs right now. So we'll
-  hunt him. Because he can take it. Because he's not our hero. He's a silent
-  guardian, a watchful protector. A dark knight." - Lt. James Gordon
+  A place for the writings and etc. of Harrison Gerard.
 
 # baseurl is the subpath of your site, e.g. /blog
 baseurl: ""
 
 # This is the base URL for your website e.g. http://thebatman.com
-url: ""
+url: "http://hsgerard.com"
 
 # URL to site image. Site image is used when your site is shared via social media
 # 1:1 aspect ratio with a minimum of 144x144 or maximum of 4096x4096 pixels
